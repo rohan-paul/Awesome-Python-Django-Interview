@@ -2,7 +2,12 @@
 
 # Awesome Python Interviews
 
-A collection of super-popular Interview questions, along with answers, and some code-snippets that I was putting together for myself while preparing for Python interviews. Many of these questions are taken from real interview. It is by no means comprehensive, and the answers are relatively short ( and for each of the concepts, there are probably better and/or more in depth coverage in the web), but I see this repo as reference tool, so I can continue a technical talk with the interviewer for two to three hours.
+A collection of super-popular **Python Interview** questions, along with explanations and implementation examples. They are also superbly useful to understand the Python Programming language and its architecture.
+
+## Most common Interview Topics and Questions along with explanations (Link across this whole Repository)
+
+- [Closure function along with lambda-Very Popular and Tricky Question](lambda-function/lambda-function-basic.py)
+- [What is lambda](lambda-function/What-is-lambda.md)
 
 ### For Understanding the Theory and the fundamentals of some super-popular Algorithm questions
 
