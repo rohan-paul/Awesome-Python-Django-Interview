@@ -41,3 +41,20 @@ alist = [lambda m:m**2, lambda m,n:m*n, lambda m:m**4]
 print(alist[0](10), alist[1](2, 20), alist[2](3)) # Output: 100 40 81
 
 ```
+
+---
+
+```python
+add_one = lambda x: x + 1
+add_one(2)
+
+# The above lambda function is equivalent to below
+
+def add_one(x):
+  return x + 1
+
+```
+
+##### You may have noticed that, in the definition of the lambdas, the arguments don’t have parentheses around them. Multi-argument functions (functions that take more than one argument) are expressed in Python lambdas by listing arguments and separating them with a comma (,) but without surrounding them with parentheses:
+
+https://realpython.com/python-lambda/
