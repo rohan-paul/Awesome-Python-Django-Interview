@@ -55,3 +55,16 @@ print(arr1[-2:])
 list[<start>:<stop>:<step>]
 
 ```
+
+##### start at 2, go upto 10, count by 3
+
+```python
+'abcdefghijklm'[2:10:3]
+'cfi'
+```
+
+start at 2 => means start from letter 'c'
+
+go upto 10 => means go upto 'k'
+
+count by 3 => means after letter 'c' the third count is 'f' and then after 'f' the third count is 'i'
